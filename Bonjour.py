@@ -12,3 +12,5 @@ print("distance parcouru par max :" ,max, "Km")
 print("distance parcouru par laura :" ,laura, "Km")
 print("distance parcouru par jean :" ,jean, "Km")
 print("audrey pue la mort")
+
+print("j'aime les canards des mers !")
